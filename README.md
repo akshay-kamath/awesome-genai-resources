@@ -29,15 +29,36 @@ A curated collection of resources, tools, tutorials, papers, courses, models, da
 *   [**RedPajama**](https://arxiv.org/abs/2411.12372) - An Open Dataset for Training Large Language Models.
 *   [**MPT-7B-Instruct**](https://huggingface.co/mosaicml/mpt-7b-instruct) - MosaicML's Instruction-following model.
 *   [**StarCoder**](https://arxiv.org/abs/2305.06161) - A state-of-the-art language model for code.
+*   [**DeepSeek-R1**](https://arxiv.org/abs/2501.10694) - Incentivizing Reasoning Capability in LLMs via Reinforcement Learning.
+*   [**Qwen 3-235B**](https://arxiv.org/abs/2505.09388) - Think Deeper, Act Faster.
+*   [**Qwen 2.5-72B-Instruct**](https://arxiv.org/abs/2412.15115) - Qwen2.5 Technical Report.
+*   [**LLaMA 3.3-70B**](https://arxiv.org/abs/2406.14971) - Domain Adaptation of Llama3-70B-Instruct through Continual Pre-Training and Model Merging.
+*   [**BitNet b1.58 2B4T**](https://arxiv.org/abs/2504.12285) - Technical Report.
+*   [**MAP-Neo-7B**](https://arxiv.org/abs/2405.18694) - Highly Capable and Transparent Bilingual Large Language Model Series.
+*   [**Gemma 2**](https://arxiv.org/abs/2408.00118) - Improving Open Language Models at a Practical Size.
+*   [**Gemma 3**](https://arxiv.org/abs/2503.19786) - Technical Report.
+*   [**Phi-4**](https://arxiv.org/abs/2412.08905) - Technical Report.
+*   [**StableLM 2**](https://arxiv.org/abs/2402.17834) - 1.6B Technical Report.
+*   [**DeepSeek-V3**](https://arxiv.org/abs/2412.19437) - Technical Report.
+*   [**StarCoder2**](https://arxiv.org/abs/2402.19173) - The Next Generation.
 
 ### Proprietary / Closed-Source Models
 
 *   [**OpenAI’s GPT-4**](https://arxiv.org/abs/2303.08774) - Technical Report for GPT-4.
 *   [**Anthropic’s Claude 3**](https://www.anthropic.com/news/the-claude-3-model-family-opus-sonnet-haiku) - Announcement and details for the Claude 3 model family.
-*   [**Google’s Gemini**](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf) - Technical report for the Gemini model.
+*   [**Google’s Gemini**](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf) - Technical report for the Gemini model family.
 *   [**xAI’s Grok**](https://x.ai/blog/grok-os) - Information on the Grok model.
 *   [**AWS Titan**](https://aws.amazon.com/bedrock/titan/) - AWS documentation for Titan models.
 *   [**AI21 Labs’ Jurassic-2**](https://www.ai21.com/blog/introducing-jamba-the-first-production-grade-mamba-based-model) - This blog introduces latest architecture.
 *   [**Cohere's Command R+**](https://cohere.com/blog/command-r-plus-a-scalable-llm-built-for-business) - The blog post for their Command R+ model.
 *   [**Inflection's Pi**](https://inflection.ai/inflection-2-5) - The announcement for Inflection-2.5, the model powering Pi.
 *   [**Baidu's ERNIE 4.0**](https://arxiv.org/abs/2310.17128) - Technical report for ERNIE 4.0.
+*   [**GPT-4o**](https://arxiv.org/abs/2410.21276) - System Card.
+*   [**GPT-4.1**](https://arxiv.org/abs/2507.13945) - Sets the Standard in Automated Experiment Design Using Novel Python Libraries.
+*   [**GPT-4.5**](https://openai.com/index/gpt-4-5/) - Research Preview.
+*   [**o3-mini & o4-mini**](https://arxiv.org/abs/2501.17749) - Early External Safety Testing of OpenAI's o3-mini.
+*   [**Claude 4 Opus & Claude 4 Sonnet**](https://www.anthropic.com/news/system-card-claude-opus-4-claude-sonnet-4) - System Card.
+*   [**Grok 3**](https://www.researchgate.net/publication/389881061_Grok_3_A_Threat_to_Human-AI_Interaction_and_Technological_Control) - An analysis of the model.
+*   [**Gemini 2.5 Pro**](https://storage.googleapis.com/deepmind-media/gemini/gemini_2_5_report.pdf) - Technical Report.
+
+*Note: For some models, a foundational research paper is not available. In these cases, links point to official blog posts, announcements or related research.*
